@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Anders er en donkey.iml" filepath="$PROJECT_DIR$/.idea/Anders er en donkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BadZuul/BadZuul.iml" filepath="$PROJECT_DIR$/BadZuul/BadZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarManager-master/BarManager-master.iml" filepath="$PROJECT_DIR$/BarManager-master/BarManager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoodZuul/GoodZuul.iml" filepath="$PROJECT_DIR$/GoodZuul/GoodZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeManager-master/GradeManager-master.iml" filepath="$PROJECT_DIR$/GradeManager-master/GradeManager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoApplication/ToDoApplication.iml" filepath="$PROJECT_DIR$/ToDoApplication/ToDoApplication.iml" />
+    </modules>
+  </component>
+</project>
